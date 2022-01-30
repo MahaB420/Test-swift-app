@@ -13,10 +13,10 @@ struct Test_swift_appApp: App {
         WindowGroup {
             ContentView()
             //this is Aseel!
- AreebBranch
+            // This is Sadeer
             // this is Areeeebbbbboooooo <3
             //this is Aseel with branch.
-main
+
         }
     }
 }
